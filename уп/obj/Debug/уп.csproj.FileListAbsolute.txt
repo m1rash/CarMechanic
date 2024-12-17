@@ -1,0 +1,141 @@
+D:\4 курс\уп\уп\уп\bin\Debug\уп.exe.config
+D:\4 курс\уп\уп\уп\bin\Debug\уп.exe
+D:\4 курс\уп\уп\уп\bin\Debug\уп.pdb
+D:\4 курс\уп\уп\уп\obj\Debug\уп.csproj.AssemblyReference.cache
+D:\4 курс\уп\уп\уп\obj\Debug\уп.addRequest.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.avtorizatia.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.changeStatus.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.processingRequests.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.Properties.Resources.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.showRequestAdmin.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.csproj.GenerateResource.cache
+D:\4 курс\уп\уп\уп\obj\Debug\уп.csproj.CoreCompileInputs.cache
+D:\4 курс\уп\уп\уп\obj\Debug\уп.exe
+D:\4 курс\уп\уп\уп\obj\Debug\уп.pdb
+D:\4 курс\уп\уп\уп\obj\Debug\уп.historyLoginForm.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.clientForm.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.refreshRequest.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.showRequestClient.resources
+D:\4 курс\уп\уп\уп\obj\Debug\уп.requestFormMaster.resources
+D:\4 курс\уп\уп\уп\bin\Debug\ClassLibrary1.dll
+D:\4 курс\уп\уп\уп\bin\Debug\ClassLibrary1.pdb
+D:\4 курс\уп\уп\уп\obj\Debug\уп.csproj.Up2Date
+D:\4 курс\уп\уп\уп\obj\Debug\уп.managerForm.resources
+D:\4 курс\уп\уп\уп\bin\Debug\QRCoder.dll
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.exe.config
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.exe
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.pdb
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\QRCoder.dll
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\ClassLibrary1.pdb
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.addRequest.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.avtorizatia.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.changeStatus.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.clientForm.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.historyLoginForm.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.managerForm.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.processingRequests.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.Properties.Resources.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.refreshRequest.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.requestFormMaster.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.showRequestAdmin.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.showRequestClient.resources
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.Up2Date
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.exe
+C:\Users\danil\Desktop\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.pdb
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.exe.config
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.exe
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\уп.pdb
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\QRCoder.dll
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\ClassLibrary1.pdb
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.addRequest.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.avtorizatia.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.changeStatus.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.clientForm.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.historyLoginForm.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.managerForm.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.processingRequests.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.Properties.Resources.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.refreshRequest.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.requestFormMaster.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.showRequestAdmin.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.showRequestClient.resources
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.csproj.Up2Date
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.exe
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\obj\Debug\уп.pdb
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\Microsoft.Owin.dll
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\Owin.dll
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\Microsoft.Owin.xml
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\danil\Desktop\ycheba\уп 01\project-86cd45ae138572860c5b0e2c56e3fb91e5c94ccd\уп\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danil\Desktop\ycheba\уп 01\уп\bin\Debug\уп.exe.config
+C:\Users\danil\Desktop\ycheba\уп 01\уп\bin\Debug\уп.exe
+C:\Users\danil\Desktop\ycheba\уп 01\уп\bin\Debug\уп.pdb
+C:\Users\danil\Desktop\ycheba\уп 01\уп\bin\Debug\ClassLibrary1.pdb
+C:\Users\danil\Desktop\ycheba\уп 01\уп\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\danil\Desktop\ycheba\уп 01\уп\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\danil\Desktop\ycheba\уп 01\уп\bin\Debug\Microsoft.Owin.xml
+C:\Users\danil\Desktop\ycheba\уп 01\уп\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\danil\Desktop\ycheba\уп 01\уп\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.addRequest.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.avtorizatia.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.changeStatus.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.clientForm.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.historyLoginForm.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.managerForm.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.processingRequests.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.Properties.Resources.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.refreshRequest.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.requestFormMaster.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.showRequestAdmin.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.showRequestClient.resources
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.csproj.Up2Date
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.exe
+C:\Users\danil\Desktop\ycheba\уп 01\уп\obj\Debug\уп.pdb
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\уп.exe.config
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\уп.exe
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\уп.pdb
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\Microsoft.Owin.dll
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\Owin.dll
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\QRCoder.dll
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\Microsoft.Owin.xml
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.addRequest.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.avtorizatia.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.changeStatus.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.clientForm.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.historyLoginForm.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.managerForm.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.processingRequests.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.Properties.Resources.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.refreshRequest.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.requestFormMaster.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.showRequestAdmin.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.showRequestClient.resources
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.csproj.Up2Date
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.exe
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\obj\Debug\уп.pdb
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\CarMechanicLibrary.dll
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\уп\bin\Debug\CarMechanicLibrary.pdb

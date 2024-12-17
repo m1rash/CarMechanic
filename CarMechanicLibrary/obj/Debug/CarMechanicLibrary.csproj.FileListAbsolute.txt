@@ -1,0 +1,6 @@
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\CarMechanicLibrary\bin\Debug\CarMechanicLibrary.dll
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\CarMechanicLibrary\bin\Debug\CarMechanicLibrary.pdb
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\CarMechanicLibrary\obj\Debug\CarMechanicLibrary.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\CarMechanicLibrary\obj\Debug\CarMechanicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\CarMechanicLibrary\obj\Debug\CarMechanicLibrary.dll
+C:\Users\danil\Desktop\ycheba\Мирошниченко УП 01\CarMechanicLibrary\obj\Debug\CarMechanicLibrary.pdb
